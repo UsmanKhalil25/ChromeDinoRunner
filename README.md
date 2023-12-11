@@ -24,7 +24,7 @@ Before running the game, ensure that you have the following installed:
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/your-username/chrome-dino-runner-clone.git
+    git clone https://github.com/UsmanKhalil25/ChromeDinoRunner.git
     ```
 
 2. Compile the code using your C++ compiler. Make sure to link against the SFML libraries.
