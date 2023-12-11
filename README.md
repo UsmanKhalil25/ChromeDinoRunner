@@ -43,6 +43,13 @@ Before running the game, ensure that you have the following installed:
 
 - **Spacebar:** Jump
 
+## Day Mode
+![2drunner2](https://github.com/UsmanKhalil25/ChromeDinoRunner/assets/142806683/9d148243-5af2-49c9-afaa-2a3d89d70d54)
+
+## Night Mode
+![2drunner1](https://github.com/UsmanKhalil25/ChromeDinoRunner/assets/142806683/a4d9cf9a-6eaa-47c0-8b07-779fab463c8e)
+
+
 ## Gameplay
 
 - Press the spacebar to make the dino jump over obstacles.
